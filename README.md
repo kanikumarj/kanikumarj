@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=KANIKUMAR%20J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20UC%20%26%20Contact%20Center%20Engineer%20%7C%20Cisco%20%7C%20Microsoft%20Teams%20%7C%20Genesys&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=KANIKUMAR+J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior+UC+Contact+Center+Engineer+%7C+Cisco+%7C+Teams+%7C+Genesys&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Senior+UC+%26+CC+Engineer+%F0%9F%93%9E;Cisco+UCCE+%7C+CVP+%7C+CUCM+Specialist;Microsoft+Teams+Voice+Architect;Genesys+Cloud+CX+%7C+IVR+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Senior+UC+and+CC+Engineer+%F0%9F%93%9E;Cisco+UCCE+%7C+CVP+%7C+CUCM+Specialist;Microsoft+Teams+Voice+Architect;Genesys+Cloud+CX+%7C+IVR+Developer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -101,11 +101,11 @@ public class KanikumarJ {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/kanikumarj">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kanikumarj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <a href="https://github.com/kanichiyaan">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kanichiyaan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
-  <a href="https://github.com/kanikumarj">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanikumarj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <a href="https://github.com/kanichiyaan">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanichiyaan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -114,7 +114,7 @@ public class KanikumarJ {
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kanikumarj&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=kanichiyaan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -122,7 +122,7 @@ public class KanikumarJ {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanikumarj&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanichiyaan&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -130,7 +130,7 @@ public class KanikumarJ {
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kanikumarj&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kanichiyaan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 ---
@@ -184,8 +184,8 @@ public class KanikumarJ {
 
 | Project | Stack | Highlights |
 |--------|-------|-----------|
-| [📞 Simple E-Commerce CVP Call Application](https://github.com/kanikumarj) | Cisco CVP · Call Studio · VXML · Java | End-to-end IVR self-service solution for e-commerce order management; properties-driven config for flexible reuse |
-| [🌐 My Portfolio Website](https://github.com/kanikumarj) | HTML · CSS · JavaScript | Personal portfolio showcasing UC & CC engineering projects, skills, and experience |
+| [📞 Simple E-Commerce CVP Call Application](https://github.com/kanichiyaan) | Cisco CVP · Call Studio · VXML · Java | End-to-end IVR self-service solution for e-commerce order management; properties-driven config for flexible reuse |
+| [🌐 My Portfolio Website](https://github.com/kanichiyaan) | HTML · CSS · JavaScript | Personal portfolio showcasing UC & CC engineering projects, skills, and experience |
 
 </div>
 
@@ -233,7 +233,7 @@ public class KanikumarJ {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kanikumarj&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=kanichiyaan&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
